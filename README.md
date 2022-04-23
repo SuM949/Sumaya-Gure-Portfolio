@@ -7,8 +7,11 @@ HTML CSS Javascript Bootstrap JQuery
 
  ## Requirements
 1.Updated portfolio featuring projects 1 and 2 and at least four exemplary homework assignments.
+
 2. Update GitHub profile with pinned repositories featuring projects 1 and 2 and four exemplary assignments.
+
 3. Updated resume
+
 4. Updated LinkedIn profile 
 
 ## License 
