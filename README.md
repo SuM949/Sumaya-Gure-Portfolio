@@ -1,4 +1,4 @@
-# sumaya-updated-portfolio
+# Sumaya-Gure-Portfolio
 
 ## Technology
 
