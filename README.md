@@ -25,4 +25,4 @@ This application is rendered under MIT
  [Email](mailto:sumayabile8@gmail.com) , [Github](https://github.com/SuM949)
  
  ## Deployed Link 
- https://sum949.github.io/sumaya-updated-portfolio/
+https://sum949.github.io/Sumaya-Gure-Portfolio/
